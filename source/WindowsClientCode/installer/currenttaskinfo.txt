@@ -1,0 +1,10 @@
+name:;
+localtaskid:; 
+maintaskid:;
+timetosubmit:;
+algorithm_id:;
+algorithm_location:;
+Data_location:;
+status:;
+result:;
+errors:;
