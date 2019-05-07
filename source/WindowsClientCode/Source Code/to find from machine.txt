@@ -1,0 +1,19 @@
+noofcores + speed in hardz =Processor(s) : 
+cpuarachtecture==System Type:
+totalmemory =Total Physical Memory:
+ 
+operating system =?
+archtecture (32 or 64)= System Type:  
+
+
+availibility (internet)
+lifespan(bootitme  )
+
+
+
+
+
+
+
+
+systeminfo | find "Processor(s)"

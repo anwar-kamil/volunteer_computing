@@ -1,0 +1,10 @@
+name:Quicksort;
+localtaskid:13; 
+maintaskid:50123;
+timetosubmit:5h;
+algorithm_id:6;
+algorithm_location:D:\\eclipse_for_se\\fyp\\taskdata\\50123\\;
+Data_location:D:\\eclipse_for_se\\fyp\\DataTaskA.txt;
+status:5;
+result:D:\\eclipse_for_se\\fyp\\ResultTaskA.txt;
+errors:D:\\eclipse_for_se\\fyp\\ErrorsTaskA.txt;
