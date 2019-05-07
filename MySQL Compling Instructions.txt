@@ -1,0 +1,6 @@
+To compile the code which makes connection with MySQL do:
+
+gcc test.c -o t `mysql_config --cflags --libs`
+
+Where gcc is a simple compiler, test.c is a file, t is executable file.
+And `mysql_config --cflags --libs` is the parameter which is passed for the code of MySQL connection.
